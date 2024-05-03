@@ -1,2 +1,2 @@
-# Lift_Simulator
+# Lift_Simulation
 It is a simple lift simulator.
